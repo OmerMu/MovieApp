@@ -90,7 +90,7 @@ const MovieList = () => {
   };
 
   const handleRating = async (movieId, newRating) => {
-    await fetch(`http://localhost:3001/movies/${movieId}`, {
+    await fetch(`http://localhost:3000/movies/${movieId}`, {
       method: "PATCH",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ rating: newRating }),

@@ -36,61 +36,21 @@ A fully interactive system for managing a movie library. Built with React + JSON
 git clone https://github.com/YOUR_USERNAME/movie-app.git
 cd movie-app
 ```
-Step 2: Install dependencies
-bash
-Copy
-Edit
+### Step 2: Install dependencies
+```bash
 npm install
-Step 3: Start the JSON Server
-bash
-Copy
-Edit
+```
+### Step 3: Start the JSON Server
+```bash
 npx json-server --watch db.json --port 3001
-Step 4: Start the React App
-bash
-Copy
-Edit
+```
+### Step 4: Start the React App
+```bash
 npm start
+```
 Now visit http://localhost:3000 in your browser.
 
-📁 Project Structure
-pgsql
-Copy
-Edit
-movie-app/
-├── public/
-│   ├── favicon.ico
-│   ├── index.html
-│   ├── logo192.png
-│   ├── logo512.png
-│   └── manifest.json
-├── src/
-│   ├── components/
-│   │   ├── AccessibilityPanel.jsx
-│   │   ├── AddMovieForm.jsx
-│   │   ├── Navbar.jsx
-│   │   └── StarRating.jsx
-│   ├── context/
-│   │   └── AccessibilityContext.jsx
-│   ├── pages/
-│   │   ├── AddMoviePage.jsx
-│   │   ├── EditMoviePage.jsx
-│   │   ├── HarryPotterMovies.jsx
-│   │   ├── MovieDetails.jsx
-│   │   └── MovieList.jsx
-│   ├── themes/
-│   │   ├── theme.js
-│   │   └── GlobalStyle.js
-│   ├── App.js
-│   ├── App.css
-│   ├── MoviesApi.js
-│   ├── index.js
-│   └── index.css
-├── db.json
-├── .gitignore
-├── package.json
-├── package-lock.json
-└── README.md
+
 
 👤 Developed by - Omer Musay
 This project was created as part of a full-stack course final assignment.

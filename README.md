@@ -10,11 +10,11 @@ A fully interactive system for managing a movie library. Built with React + JSON
 -  Add / 📝 Edit / ❌ Delete movie entries  
 -  Star rating for each movie  
 -  Light/Dark Theme Toggle  
--  Accessibility panel:  
--    Text resizing  
--    High contrast  
--    Readable font  
--    Reset settings  
+- ♿ Accessibility panel:  
+  - Text resizing  
+  - High contrast  
+  - Readable font  
+  - Reset settings 
 -  Real-time movie search  
 -  Dedicated *Harry Potter* movie collection  
 -  Responsive design with smooth hover effects

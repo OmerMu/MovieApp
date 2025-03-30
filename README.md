@@ -31,9 +31,9 @@ A fully interactive system for managing a movie library. Built with React + JSON
 ## 🚀 Installation & Usage
 
 ### Step 1: Clone the repository
-
+https://github.com/OmerMu/MovieApp.git
 ```bash
-git clone https://github.com/YOUR_USERNAME/movie-app.git
+git clone https://github.com/OmerMu/MovieApp.git
 cd movie-app
 ```
 ### Step 2: Install dependencies

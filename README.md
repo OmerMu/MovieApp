@@ -6,18 +6,18 @@ A fully interactive system for managing a movie library. Built with React + JSON
 
 ## ✨ Key Features
 
--  Display of movies with image & summary  
--  Add / 📝 Edit / ❌ Delete movie entries  
--  Star rating for each movie  
--  Light/Dark Theme Toggle  
+- 🎥 Display of movies with image & summary  
+- ➕ Add / 📝 Edit / ❌ Delete movie entries  
+- ⭐ Star rating for each movie  
+- 🎨 Light/Dark Theme Toggle  
 - ♿ Accessibility panel:  
   - Text resizing  
   - High contrast  
   - Readable font  
-  - Reset settings 
--  Real-time movie search  
--  Dedicated *Harry Potter* movie collection  
--  Responsive design with smooth hover effects
+  - Reset settings  
+- 🔍 Real-time movie search  
+- 📂 Dedicated *Harry Potter* movie collection  
+- 🧪 Responsive design with smooth hover effects
 
 ---
 
